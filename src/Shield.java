@@ -11,7 +11,7 @@
     -public void shieldChoice() แสดงตัวเลือกของโล่ทั้งหมด
     -public void showShieldStatus() แสดงสถานะของโล่แต่ละอัน
     -public void shield_Def() ส่งค่าสถานะของโล่ไปเก็บในข้อมูลตัวละคร
-    -private Shield allShield(int i ) สร้างโล่ขึ้นมาเก็บตำแหน่ง i
+    -private Shield allShield(int i ) สร้างโล่ขึ้นมาเก็บตำแหน่ง i.
     i = 1 :
     Shield Shield1 = new Shield();
     Shield1.shieldName = "Shield1";

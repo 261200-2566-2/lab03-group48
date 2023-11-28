@@ -11,7 +11,7 @@
     -public void swordChoice() แสดงตัวเลือกของดาบทั้งหมด
     -public void showSwordStatus() แสดงสถานะของดาบแต่ละเล่ม
     -public void sword_Dmg(String swordName, String handed) ส่งค่าสถานะของดาบไปเก็บในข้อมูลตัวละคร
-    -private Sword allSword(int i) สร้างดาบขึ้นมาเก็บตำแหน่ง i
+    -private Sword allSword(int i) สร้างดาบขึ้นมาเก็บตำแหน่ง i.
     i = 1:
     Sword Sword1 = new Sword();
     Sword1.swordName = "Sword1";

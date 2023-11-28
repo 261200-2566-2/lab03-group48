@@ -17,8 +17,8 @@
     -private double RDmg; ดาเมจข้างขวาที่ทำได้
     -private double LDef; การป้องกันด้านซ้ายที่กันได้
     -private double RDef; การป้องกันขวาซ้ายที่กันได้
-    -private boolean leftHand ; ถือด้านซ้าย
-    -private boolean rightHand ; ถือด้านขวา
+    -private boolean leftHand ; ถือด้านซ้าย.
+    -private boolean rightHand ; ถือด้านขวา.
 
     2.what operations are needed และ 3.how and where to compute information
     -public void RunSpd_Decrease() ใช้ในการคำนวณหาความเร็วที่ถูกลดขณะถืออุปกรณ์
